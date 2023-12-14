@@ -1,5 +1,5 @@
 # Avastusrada
-Õppevahend Avastusrada on nutiseadme veebilehitsejas töötav rakendus, mille abil saab luua õues läbitavaid interaktiivseid radu, mida saab läbida igaüks - vaja on ainult nutiseadet ja pealehakkamist.
+Õppevahend [Avastusrada](https://avastusrada.ee) on nutiseadme veebilehitsejas töötav rakendus, mille abil saab luua õues läbitavaid interaktiivseid radu, mida saab läbida igaüks - vaja on ainult nutiseadet ja pealehakkamist.
 
 Avastusrada suunab enda kasutajad vaatama maailma laiemalt, kui esmapilgul tundub. Igal rajal on oma tähendus, kuid kõiki neid seob ühtseks tervikuks hoolimine tuleviku jätkusuutlikkusest. Vaadates lähemalt oma kodukandi loodust või ajalugu, suunates pilku kosmosesse, uudistades loomi loomaaias, kivisid linnapargis või otsides kohta kuhu prügi visata, tuleb meil olla teadlik, et me oleme üks osa suurest tervikust ja iga meie tegu jätab jälje. Milline see just on, sellele kutsub kaasa mõtlema Avastusrada. 
 
